@@ -9,3 +9,6 @@
 ### Count Btn click
 
 <img src="./count-btn-click.png" width=300>
+
+### App running gif
+![](./hello-toast.gif)
